@@ -1,0 +1,13 @@
+/node_modules
+package-lock.json
+/.pnp
+.pnp.js
+
+/coverage
+
+/build
+
+.DS_Store
+
+.env
+note_while_pushing_to_git.txt
