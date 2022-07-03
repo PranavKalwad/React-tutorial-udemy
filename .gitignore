@@ -11,3 +11,5 @@ package-lock.json
 
 .env
 note_while_pushing_to_git.txt
+
+npm_rum_build_issue.png
