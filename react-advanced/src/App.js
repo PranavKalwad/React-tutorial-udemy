@@ -1,11 +1,11 @@
-import React from "react";
-import Setup from "./tutorial/3-conditional-rendering/setup/3-show-hide";
+import React from "react"
+import Setup from "./tutorial/5-useRef/setup/1-useRef-basics"
 function App() {
   return (
     <div className="container">
       <Setup />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
